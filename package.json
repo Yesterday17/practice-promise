@@ -1,0 +1,10 @@
+{
+  "name": "practice-promise",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Yesterday17",
+  "license": "MIT",
+  "devDependencies": {
+    "promises-aplus-tests": "^2.1.2"
+  }
+}
